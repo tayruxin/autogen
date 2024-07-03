@@ -1,0 +1,11 @@
+[
+    {
+        "model": "BMRetriever/BMRetriever-1B",
+        "model_client_cls": "CustomModelClient",
+
+        "n": 1,
+        "params": {
+        "max_length": 1000
+        }
+    }
+]
